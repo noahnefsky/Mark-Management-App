@@ -1,4 +1,5 @@
 # Mark Management APP
+Main code in src/main/kotlin/com/a1/a1enhanced
 
 ## Setup
 * macOS 12.6
